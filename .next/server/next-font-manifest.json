@@ -1,0 +1,17 @@
+{
+  "pages": {
+    "/_app": [
+      "static/media/a2117d63e64fe351-s.p.woff2"
+    ]
+  },
+  "app": {
+    "/home/vinod/Desktop/Learn/TBI/node_modules/next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-sora\",\"weight\":[\"100\",\"200\",\"300\",\"400\",\"500\",\"600\",\"700\",\"800\"]}],\"import\":\"Sora\",\"path\":\"components/Layout.jsx\",\"variableName\":\"sora\"}": [
+      "static/media/a2117d63e64fe351-s.p.woff2"
+    ],
+    "/home/vinod/Desktop/Learn/TBI/node_modules/next/font/google/target.css.webpack[javascript/auto]!=!/home/vinod/Desktop/Learn/TBI/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[1].oneOf[3].use[1]!/home/vinod/Desktop/Learn/TBI/node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[1].oneOf[3].use[2]!/home/vinod/Desktop/Learn/TBI/node_modules/next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-sora\",\"weight\":[\"100\",\"200\",\"300\",\"400\",\"500\",\"600\",\"700\",\"800\"]}],\"import\":\"Sora\",\"path\":\"components/Layout.jsx\",\"variableName\":\"sora\"}": [
+      "static/media/a2117d63e64fe351-s.p.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": true
+}
